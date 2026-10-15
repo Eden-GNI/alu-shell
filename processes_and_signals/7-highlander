@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#This script declares its superiority
+trap 'echo "I am invincible!!!"' SIGTERM
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2
+done

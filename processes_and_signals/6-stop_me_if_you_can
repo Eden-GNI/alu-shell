@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#This script will also stop 4-to-youknowtherest
+pkill -f 4-to_infinity_and_beyond

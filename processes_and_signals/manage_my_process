@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#This scrip is a script that does things
+while true
+do
+    echo "I am alive!" >> /tmp/my_process
+    sleep 2
+done
